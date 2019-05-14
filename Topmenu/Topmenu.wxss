@@ -5,8 +5,8 @@ movable-view {
   left:10px;
   height: 60rpx;
   width: 1600rpx;
-  background: orangered;
-  color:white;
+  background: #fee;
+  color: blueviolet;
   white-space: nowrap;
 }
 movable-area {
@@ -15,7 +15,7 @@ movable-area {
   height: 60rpx;
   width: 800rpx;
   margin: 0rpx;
-  background-color: orangered; 
+  background-color: #fee; 
 }
 .page-section{
   width: 1800rpx;

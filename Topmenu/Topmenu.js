@@ -23,7 +23,7 @@ Component({
   },
 
   methods: {
-    
+   
   },
 
 
